@@ -1,0 +1,40 @@
+1
+13436078-K
+Christian Omar
+Soriano Sandoval
+Vigente
+2
+17004515-7
+Nicole Elizabeth
+Castillo Contreras
+Bloqueado
+3
+12345678-5
+Juan Erasmo
+Perez Solar
+Vigente
+4
+15755698-8
+Javiera Paz
+Cuevas Silva
+Bloqueado
+5
+19523658-8
+Juana Maria
+Espinoza Sanhueza
+Vigente
+6
+14567345-2
+Maria Antonieta
+Gallardo Salas
+Vigente
+7
+22365851-5
+Claudia Andrea
+Costa Salamanca
+Vigente
+8
+18563587-K
+Pedro Humberto
+Suazo Garrido
+Vigente

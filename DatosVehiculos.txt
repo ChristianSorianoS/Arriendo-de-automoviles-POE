@@ -1,0 +1,24 @@
+1
+Hyundai Elantra
+HJGT33
+Disponible
+2
+Nissan Sentra
+GGFR55
+Disponible
+3
+Suzuki Celerio
+HJKI25
+Arrendado
+4
+Peugeot Partner
+JJGG56
+Arrendado
+5
+Suzuki Vitara
+HHKT87
+Disponible
+6
+Fiat punto
+JHKI88
+Disponible

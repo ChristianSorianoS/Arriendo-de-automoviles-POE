@@ -1,0 +1,24 @@
+Juan Erasmo Perez Solar
+1
+29166.0
+true
+Juan Erasmo Perez Solar
+2
+29166.0
+true
+Juan Erasmo Perez Solar
+3
+29166.0
+true
+Juan Erasmo Perez Solar
+4
+29166.0
+false
+Juan Erasmo Perez Solar
+5
+29166.0
+false
+Juan Erasmo Perez Solar
+6
+29166.0
+false
